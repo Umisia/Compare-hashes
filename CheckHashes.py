@@ -44,7 +44,7 @@ def select_files():
 
         if file_labels:
             button_choose.config(text=("Add another"))
-    #print(hash_str)
+  
     
 def add_label(frame, col, labels_list, name, hashh):    
     labels_list.append(tkinter.Label(frame,text=name+"\n"+hashh))
