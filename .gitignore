@@ -1,3 +1,5 @@
 *.img
 *.txt
 *.bat
+.ipynb_checkpoints/
+*.ipynb
